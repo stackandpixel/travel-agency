@@ -1,0 +1,6 @@
+{
+  "name": "Roam Tribe India",
+  "description": "Curated group travel community for young explorers, solo travellers, and road trippers across India. Weekend getaways, Himalayan treks, and international escapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
